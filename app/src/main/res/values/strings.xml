@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mediaplayer</string>
+    <string name="adelante"> >> </string>
+    <string name="pausar"> || </string>
+    <string name="reproducir"> |> </string>
+    <string name="atras">«</string>
+    <!-- Definición de un string utilizando CDATA para incluir caracteres especiales -->
+    <string name="texto_html"><![CDATA[<b>Hola, Mundo!</b>]]></string>
+</resources>
